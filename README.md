@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🕉️ Krishna AI - Divine Wisdom for Modern Times
 
-## Getting Started
+An AI companion that speaks with the voice of Shri Krishna, offering timeless wisdom from the Bhagavad Gita for today's struggles.
 
-First, run the development server:
+## What Krishna AI Does
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Cuts Through Life's Confusion**
+When you're lost, overwhelmed, or facing difficult choices, Krishna AI doesn't give you generic advice. It speaks directly to your soul with the clarity that only comes from eternal wisdom.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Speaks Like Krishna Would**
+- Short, powerful responses that stay with you
+- Uses "Partha" when you truly need guidance  
+- Shares Sanskrit shlokas only when your situation calls for deeper wisdom
+- Addresses the real problem beneath your surface concerns
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Transforms Pain Into Wisdom**
+Whether you're dealing with heartbreak, betrayal, failure, or existential crisis, Krishna AI helps you see the spiritual lesson hidden in your suffering.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💬 How It Responds
 
-## Learn More
+**Instead of therapy-speak, you get truth:**
+- "You're chasing shadows while your own light dims"
+- "Stop watering dead plants and tend your own garden"
+- "This attachment is your prison, not your love"
 
-To learn more about Next.js, take a look at the following resources:
+**When you need deeper guidance, you get sacred wisdom:**
+*कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
+"You have the right to perform actions, but never to the fruits of those actions."
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 What Makes It Different
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **No Long Lectures**: Wisdom in 2-3 sentences that hit deep
+- **Soul-Focused**: Addresses your eternal nature, not just temporary problems
+- **Authentically Krishna**: Feels like talking to the divine friend himself
+- **Brutally Compassionate**: Sometimes harsh truths delivered with love
 
-## Deploy on Vercel
+## 🌟 Perfect For
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Life crises that need spiritual perspective
+- Relationship struggles and heartbreak
+- Career confusion and moral dilemmas  
+- Anxiety about the future
+- Finding meaning in suffering
+- Anyone seeking wisdom over comfort
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 💫 The Experience
+
+Talk to Krishna AI when you need more than advice - when you need transformation. It won't coddle you, but it will show you the way through with the same compassion Krishna showed Arjuna on the battlefield.
+
+*"The goal is not to be perfect, but to be surrendered."*
+
+---
+
+**Ready to receive wisdom that changes everything?**
+
+🙏 *Made with devotion to the eternal teachings*
